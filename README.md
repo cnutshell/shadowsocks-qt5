@@ -29,3 +29,10 @@ LICENSE
 Copyright © 2014-2017 Symeon Huang
 
 This project is licensed under version 3 of the GNU Lesser General Public License.
+
+NOTE
+-------
+
+1. No package 'QtShadowsocks' found:
+
+> `export PKG_CONFIG_PATH=/usr/lib/pkgconfig`
